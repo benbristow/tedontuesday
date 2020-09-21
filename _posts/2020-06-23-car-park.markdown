@@ -1,0 +1,14 @@
+---
+layout: post
+title: Car park
+slug: car-park
+file: car-park.jpg
+---
+
+<p>Ted says,</p>
+
+<p>&quot;Do you have trouble remembering where you parked your car in crowded carparks? Leave your headlights on full and just wait for nightfall. Hey Presto, there&#39;s your car!
+Bonus tip. Always keep a fully charged 12v battery in the boot of your car. You never know when you might need one!&quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

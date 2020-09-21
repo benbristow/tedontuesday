@@ -1,0 +1,13 @@
+---
+layout: post
+title: Obi-Wan
+slug: obi-wan
+file: obi-wan.jpg
+---
+
+<p>Today Ted is auditioning for the part of Obi-Wan Kennelobi in the new blockbuster film, Star Paws!
+May the force be Shi-tzu Ted!</p>
+
+<p>Listen to Ted.
+Ted is very wise.
+(and so is Obi-Wan Kennelobi.)</p>

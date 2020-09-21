@@ -1,0 +1,13 @@
+---
+layout: post
+title: B&Q
+slug: b-q
+file: b-q.jpg
+---
+
+<p>Ted says:</p>
+
+<p>&quot;Beware of customer service people in B&amp;Q. I went into their garden department and a man in orange asked me if I wanted decking. I&#39;m OK because I got the first punch in, but be warned people!&quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

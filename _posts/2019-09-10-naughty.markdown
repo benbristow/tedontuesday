@@ -1,0 +1,9 @@
+---
+layout: post
+title: Naughty
+slug: naughty
+file: naughty.jpg
+---
+
+<p>“I&#39;m giving you my very sternest look because you&#39;ve been naughty haven&#39;t you?
+Yes, you have. Very, very naughty. Now give me a treat and I&#39;ll love you again, ok?”</p>

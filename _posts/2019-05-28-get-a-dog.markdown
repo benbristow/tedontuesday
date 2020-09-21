@@ -1,0 +1,11 @@
+---
+layout: post
+title: Get A Dog
+slug: get-a-dog
+file: get-a-dog.jpg
+---
+
+<p>Ted says, “Dogs will give you unconditional love until the day they die. Cats will make you pay for every mistake you&#39;ve ever made since the day you were born. It&#39;s a no brainer, get a dog!&quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

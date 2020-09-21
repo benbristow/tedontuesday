@@ -1,0 +1,11 @@
+---
+layout: post
+title: Bars
+slug: bars
+file: bars.jpg
+---
+
+<p>Ted says, &quot;If you&#39;re going to spend your life behind bars, make sure they are the ones that serve alcohol. They are much more fun than steel ones! (but don&#39;t forget to stay within the recommended daily alcohol limits.&quot;) </p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

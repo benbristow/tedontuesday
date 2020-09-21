@@ -1,0 +1,12 @@
+---
+layout: post
+title: Nothing
+slug: nothing
+file: nothing.jpg
+---
+
+<p>This week Ted says.... Nothing at all because Ted knows sometimes no words are necessary.
+(And because he&#39;s got other things on his mind right now!)</p>
+
+<p>Listen to Ted. (Chomping on his bone!)
+Ted is very wise.</p>

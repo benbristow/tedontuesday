@@ -1,0 +1,11 @@
+---
+layout: post
+title: AA
+slug: aa
+file: aa.jpg
+---
+
+<p>Ted says, &quot;Last week I went to an AA meeting and everyone stood up and admitted to being an alcoholic. I couldn&#39;t believe it! If you&#39;re a driver, I&#39;d cancel your membership and join the RAC if you want responsible, sober mechanics mending your car!&quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

@@ -1,0 +1,11 @@
+---
+layout: post
+title: Hot Fluid
+slug: hot-fluid
+file: hot-fluid.jpg
+---
+
+<p>Ted says, &quot;Avoid running around burning your lips and throat drinking expensive boiling hot watered down fluid from a scalding plastic cup through a little hole, by getting up 10 minutes earlier and making yourself a nice cheap cup of coffee at home before you go to work.&quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

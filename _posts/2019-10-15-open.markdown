@@ -1,0 +1,16 @@
+---
+layout: post
+title: Open
+slug: open
+file: open.jpg
+---
+
+<p>Ted says,</p>
+
+<p>&quot;Open your eyes to the beauty that surrounds you,
+Open your mind to the wonders of life,
+Open your heart to those who love you, and
+Always be true to yourself.&quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

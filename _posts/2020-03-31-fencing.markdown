@@ -1,0 +1,13 @@
+---
+layout: post
+title: Fencing
+slug: fencing
+file: fencing.jpg
+---
+
+<p>Ted says, &quot;Bored being stuck at home with nothing to do during the coronavirus lockdown?&quot;
+&quot;How about taking up fencing, an exciting and dangerous sport?&quot;
+&quot;Just remember to put the fencing back down again before your neighbour sees you or it might get even more dangerous!&quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

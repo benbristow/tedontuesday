@@ -1,0 +1,13 @@
+---
+layout: post
+title: Butter
+slug: butter
+file: butter.jpg
+---
+
+<p>Ted says,</p>
+
+<p>Prevent your toast always landing buttered side down on the floor by waiting until after you&#39;ve dropped it before buttering.</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

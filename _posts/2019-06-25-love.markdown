@@ -1,0 +1,11 @@
+---
+layout: post
+title: Love
+slug: love
+file: love.jpg
+---
+
+<p>Ted says, &quot;Your dogs will always love you more than they will ever love themselves, so remember to always treat them well and treat them often.&quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

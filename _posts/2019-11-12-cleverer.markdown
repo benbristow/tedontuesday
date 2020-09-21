@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cleverer
+slug: cleverer
+file: cleverer.jpg
+---
+
+<p>Ted says, &quot;Dogs are cleverer than human beings because we see stuff but we keep it to ourselves and we do not tell. You humans should try it sometimes! ”</p>

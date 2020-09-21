@@ -1,0 +1,11 @@
+---
+layout: post
+title: Wagging
+slug: wagging
+file: wagging.jpg
+---
+
+<p>Ted says, “Wagging your tail makes you more friends than wagging your tongue.”</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

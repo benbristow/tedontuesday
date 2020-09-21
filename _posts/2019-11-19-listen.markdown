@@ -1,0 +1,11 @@
+---
+layout: post
+title: Listen
+slug: listen
+file: listen.jpg
+---
+
+<p>Ted says, “Dogs do speak, but only to those who know how to listen. Do you understand what I am saying? &quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

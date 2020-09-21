@@ -1,0 +1,11 @@
+---
+layout: post
+title: Bedtime
+slug: bedtime
+file: bedtime.jpeg
+---
+
+<p>Ted says, &quot;Try going to bed 30 minutes earlier every night, then everybody won&#39;t have to put up with you moaning how tired you are each morning!&quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

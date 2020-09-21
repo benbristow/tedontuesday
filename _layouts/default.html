@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" content="The life of Ted the Shih-Tzu. New posts every Tuesday(ish)" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Ben & Alan Bristow" />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link href="https://fonts.googleapis.com/css?family=Sniglet&display=swap" rel="stylesheet">
+    <link href="/dist/main.css?v={{ site.time | date:'%s' }}" rel="stylesheet" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41573269-9"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'UA-41573269-9');
+    </script>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header class="tot-header">
+        <div class="container">
+          <a href="/">
+            <h1>{{ site.title }}</h1>
+          </a>
+        </div>
+      </header>
+
+      <main class="container">
+        {{ content }}
+      </main>
+    </div>
+
+    <footer class="tot-footer">
+      <div class="container">
+        © 2020 Ted On Tuesday<br />
+        A father & son project by Ben & Alan Bristow<br />
+        (+ Ted of course)
+      </div>
+    </footer>
+
+    <script src="/dist/main.js?v={{ site.time | date:'%s' }}"></script>
+  </body>
+</html>

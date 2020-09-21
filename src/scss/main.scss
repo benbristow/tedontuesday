@@ -1,0 +1,101 @@
+$primary: #cd853f;
+$secondary: darken($primary, 10%);
+
+$headings-color: $primary;
+$font-family-base: "Sniglet", cursive;
+$font-size-base: 1.4rem;
+
+@import '~bootstrap/scss/bootstrap';
+
+$doubleSpacer: $spacer * 2;
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-primary {
+  color: $white;
+}
+
+.wrapper {
+  flex: 1;
+}
+
+video {
+  background: $black;
+  max-height: 50vh;
+  width: 100%;
+  margin: $doubleSpacer auto;
+}
+
+.tot-header {
+  padding: ($spacer * 4) 0;
+  text-align: center;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.tot-footer {
+  background: $secondary;
+  color: $white;
+  font-size: 1rem;
+  margin-top: $doubleSpacer;
+  padding: $spacer 0;
+  text-align: center;
+}
+
+.tot-post {
+  text-align: center;
+
+  &__date {
+      color: $primary;
+  }
+  
+  img {
+      margin: $doubleSpacer 0;
+      width: 80%;
+      max-height: 70vh;
+      object-fit: contain;
+  }
+
+  blockquote {
+      background: $gray-100;
+      margin-bottom: $doubleSpacer;
+      padding: $doubleSpacer;
+  }
+}
+
+.tot-pagination {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+  div {
+      width: 33%;
+  }
+  
+  &__back {
+      text-align: left;
+  }
+  
+  &__current {
+      text-align: center;
+  }
+  
+  &__forward {
+      text-align: right;
+  }
+
+  @include media-breakpoint-down(md) {
+      .btn > span {
+          display: none;
+      }
+  }
+}

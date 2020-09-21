@@ -1,0 +1,11 @@
+---
+layout: post
+title: Fetch
+slug: fetch
+file: fetch.jpg
+---
+
+<p>Ted says, &quot;All work and no play makes Jack a dull boy&quot; is an old true proverb, so always make time to play.... preferably... &quot;Fetch!&quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: New Year
+slug: new-year
+file: new-year.jpg
+---
+
+<p>Ted is looking forward to a bright new future and the challenges in store for us all in 2019.
+Ted sends his love to each and every one of you and wishes you all a very happy new year. xxx</p>

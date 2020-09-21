@@ -1,0 +1,8 @@
+---
+layout: post
+title: Tomorrow
+slug: tomorrow
+file: tomorrow.jpg
+---
+
+<p>Ted says, “If you spend too much time thinking about yesterday’s mistakes, you won’t have time to build a better tomorrow today.”</p>

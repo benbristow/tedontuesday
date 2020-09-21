@@ -1,0 +1,8 @@
+---
+layout: post
+title: Circles
+slug: circles
+file: circles.jpg
+---
+
+<p>Ted says, “If you’re having trouble sleeping, just walk round in circles three or four times before you lie down. This method also works if you need to take a dump. However, be very careful not to poop in your bed by mistake!”</p>

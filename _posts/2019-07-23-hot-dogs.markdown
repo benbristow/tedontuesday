@@ -1,0 +1,11 @@
+---
+layout: post
+title: Hot Dogs
+slug: hot-dogs
+file: hot-dogs.jpeg
+---
+
+<p>Ted says, &quot;Barbecued chicken and burgers are scrumptious, but I&#39;m deeply concerned about the concept of barbecued HOT DOGS!&quot;  😡</p>
+
+<p>Listen to Ted. 
+Ted is very wise.</p>

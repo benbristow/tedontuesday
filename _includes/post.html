@@ -1,0 +1,16 @@
+<article class="tot-post">
+  <h2><a href="{{ include.post.url }}">{{ include.post.title }}</a></h2>
+  <div class="tot-post__date">{{ include.post.date | date: '%A, %d %B %Y' }}</div>
+
+  {% if post.file contains ".mp4" %}
+    <video controls>
+      <source src="/assets/files/{{ include.post.file }}" type="video/mp4" />
+    </video>
+  {% else %}
+    <img src="/assets/files/{{ include.post.file }}" alt="{{ include.post.title }}" />
+  {% endif %}
+
+  <blockquote>
+    {{ include.post.content }}
+  </blockquote>
+</article>

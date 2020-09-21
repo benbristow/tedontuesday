@@ -1,0 +1,31 @@
+---
+layout: default
+title: Archive
+permalink: archive
+pagination: 
+  enabled: true
+---
+
+{% for post in paginator.posts %}
+  {% include post.html post=post %}
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+  <div class="tot-pagination">
+    <div class="tot-pagination__back">
+      {% if paginator.previous_page %}
+        <a class="btn btn-primary" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">&larr; <span>Previous Page</span></a>
+      {% endif %}
+    </div>
+    
+    <div class="tot-pagination__current">
+      Page {{ paginator.page }}/{{ paginator.total_pages }}
+    </div>
+    
+    <div class="tot-pagination__forward">
+      {% if paginator.next_page %}
+        <a class="btn btn-primary" href="{{ paginator.next_page_path | prepend: site.baseurl }}"><span>Next Page</span> &rarr;</a>
+      {% endif %}
+    </div>
+  </div>
+{% endif %}

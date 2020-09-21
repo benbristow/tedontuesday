@@ -1,0 +1,12 @@
+---
+layout: post
+title: Exercise
+slug: exercise
+file: exercise.jpg
+---
+
+<p>Ted says, &quot;If your dog is getting fat then YOU are not getting enough exercise!&quot;
+&quot;Run like the wind Forrest!&quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

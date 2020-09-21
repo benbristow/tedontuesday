@@ -1,0 +1,11 @@
+---
+layout: post
+title: Tilt
+slug: tilt
+file: tilt.jpg
+---
+
+<p>Ted says, “If you want something and need someone to give it to you, just tilt your head slightly to one side and stare longingly and lovingly at them for a minute or so. You will get what you want EVERY time!”</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>

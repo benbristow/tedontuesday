@@ -1,0 +1,11 @@
+---
+layout: post
+title: They
+slug: they
+file: they.jpg
+---
+
+<p>Ted says, &quot;&quot;They&quot; are either with you or against you. If they&#39;re with you then all well and good. If they&#39;re against you, be proud, be true to yourself, stick your tongue out at them and go your own way anyway!&quot;</p>
+
+<p>Listen to Ted.
+Ted is very wise.</p>
