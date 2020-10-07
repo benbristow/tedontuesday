@@ -7,7 +7,7 @@
       <source src="/assets/files/{{ include.post.file }}" type="video/mp4" />
     </video>
   {% else %}
-    <img src="/assets/files/{{ include.post.file }}" alt="{{ include.post.title }}" />
+    <img src="/assets/files/{{ include.post.file }}" alt="{{ include.post.title }}" loading="lazy" />
   {% endif %}
 
   <blockquote>
