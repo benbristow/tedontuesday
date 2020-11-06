@@ -8,6 +8,8 @@ pagination:
 
 exclude:
   - src/
+  - package.json
+  - package-lock.json
 
 plugins:
   - jekyll-feed
