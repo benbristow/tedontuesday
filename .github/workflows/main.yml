@@ -50,3 +50,8 @@ jobs:
           container_name: '$web'
           source_dir: '_site'
           sync: true
+
+    - name: Purge Azure CDN Cache
+      uses: Azure/cli@v1.0.0
+      with:
+        inlineScript: az cdn endpoint purge -g tedontuesday --name tedontuesday --profile-name tedontuesday-cdn --content-paths /* --no-wait
