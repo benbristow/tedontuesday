@@ -5,6 +5,8 @@ slug: zoo
 file: zoo.jpg
 ---
 
+Ted says,
+
 "Are you fed up and feeling a little mischievous?"
 "Cause enormous panic at your local zoo by running around with a replica rifle, a look of extreme anguish on your face and frantically asking everyone you see, "Which way did it go?""
 
