@@ -1,0 +1,15 @@
+---
+layout: post
+title: DFS
+slug: dfs
+file: dfs.jpg
+---
+
+Ted says, 
+
+"Recreate a game of Pacman by hurrying down the isles in DFS whilst trying to avoid the salesmen.
+
+Turn the tables by producing your, "I've got a complaint!" letter above your head, then try to stop them as they instantly change their demeanour and skulk away to the nearest staff only exit."
+
+Listen to Ted.
+Ted is very wise.

@@ -5,7 +5,7 @@ slug: covid-friendly
 file: covid-friendly.jpg
 ---
 
-Ted says, 
+Ted says,
 
 "With all these places advertising themselves as 'Covid Friendly', there's no wonder lockdowns are increasing - we need to be hostile to this virus, not actively encouraging it!"
 
