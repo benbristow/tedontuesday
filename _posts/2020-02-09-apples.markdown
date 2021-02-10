@@ -1,0 +1,13 @@
+---
+layout: post
+title: Apples
+slug: apples
+file: apples.jpg
+---
+
+Ted says, 
+
+"Always carry a bag of apples around with you. An apple a day keeps anyone away if you throw it at them hard and accurately enough. Any you don't throw can be used to make a lovely, wholesome apple pie when you get home!"
+
+Listen to Ted.
+Ted is very wise.
