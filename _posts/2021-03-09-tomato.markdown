@@ -1,0 +1,13 @@
+---
+layout: post
+title: Tomato
+slug: tomato
+file: tomato.jpg
+---
+
+Ted says, 
+
+"Today I shall explain the difference between knowledge and wisdom. Knowledge is knowing that a tomato is a fruit and not a vegetable. Wisdom is knowing not to put a tomato into a fruit salad."
+
+Listen to Ted.
+Ted is very wise.
